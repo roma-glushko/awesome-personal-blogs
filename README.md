@@ -13,3 +13,8 @@
 - [robkendal.co.uk](https://robkendal.co.uk/)
 - [robinwieruch.de](https://www.robinwieruch.de/)
 - [una.im](https://una.im/)
+- [jeremyshaw.co.nz](https://jeremyshaw.co.nz/)
+- [jamesknelson.com](https://jamesknelson.com/)
+- [https://houssein.me/](https://houssein.me/)
+- [jarv.is](https://jarv.is/)
+- [jlelse.blog](https://jlelse.blog/)
