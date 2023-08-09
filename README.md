@@ -24,3 +24,4 @@
 - [a11ywithlindsey.com](https://www.a11ywithlindsey.com/)
 - [loige.co](https://loige.co/)
 - [mariusschulz.com](https://mariusschulz.com/)
+- [maxdeviant.com](https://maxdeviant.com/)
