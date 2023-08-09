@@ -1,0 +1,15 @@
+# Awesome Personal Blogs
+
+- [dnlytras.com](https://dnlytras.com/)
+- [jimraptis.com](https://www.jimraptis.com/)
+- [philippspiess.com](https://philippspiess.com/)
+- [taniarascia.com](https://www.taniarascia.com/)
+- [joebocock.com](https://joebocock.com/)
+- [overreacted.io](https://overreacted.io/)
+- [tiffanywhite.dev](https://www.tiffanywhite.dev/)
+- [tomanistor.com](https://tomanistor.com/)
+- [techielass.com](https://www.techielass.com/)
+- [rshackleton.co.uk](https://rshackleton.co.uk/)
+- [robkendal.co.uk](https://robkendal.co.uk/)
+- [robinwieruch.de](https://www.robinwieruch.de/)
+- [una.im](https://una.im/)
