@@ -18,3 +18,7 @@
 - [https://houssein.me/](https://houssein.me/)
 - [jarv.is](https://jarv.is/)
 - [jlelse.blog](https://jlelse.blog/)
+- [nikitahl.com](https://nikitahl.com/)
+- [glasnt.com](https://glasnt.com/)
+- [lea.verou.me](https://lea.verou.me/)
+- [a11ywithlindsey.com](https://www.a11ywithlindsey.com/)
